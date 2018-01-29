@@ -7,7 +7,7 @@ Output folder: **/out**
 To run server:
 ```
 npm i
-npm run all # (runs npm run build and npm start)
+npm run ready
 ```
 
 #### Scripts
@@ -19,7 +19,7 @@ Start:
 ```
 npm start # (runs babel-compiled /out/index.js)
 ```
-All (Quick Start):
+Ready (Quick Start):
 ```
-npm run all # (runs npm run build and npm start)
+npm run ready # (runs npm run build and npm start)
 ```
