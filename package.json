@@ -6,7 +6,7 @@
   "scripts": {
     "build": "babel in -d out",
     "start": "node out/index.js",
-    "all": "npm run build && npm start"
+    "ready": "npm run build && npm start"
   },
   "license": "MIT",
   "devDependencies": {
